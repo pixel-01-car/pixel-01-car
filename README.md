@@ -78,7 +78,7 @@ Olá! Me chamo Antonio Marcos (Marcos Lira), estou em busca da minha primeira op
 
 <br/>
 <br/>
-### 📊 ESTATÍSTICA
+# 📊 ESTATÍSTICA
 
 <p>
   <img 
