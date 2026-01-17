@@ -2,7 +2,7 @@
 
 **`Estudante de Ciência da Computação`**
 
-Olá! Me chamo Antonio Marcos (Marcos Lira), estou em busca da miinha primeira oportunidade na área de TI. Conheça o meu perfil do Linkedin ([Marcos Lira](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)).
+Olá! Me chamo Antonio Marcos (Marcos Lira), estou em busca da minha primeira oportunidade na área de TI. Conheça o meu perfil do Linkedin ([Marcos Lira](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)).
 
 <p align="left">
     <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile">
